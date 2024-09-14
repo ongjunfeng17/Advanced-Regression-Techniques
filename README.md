@@ -1,4 +1,4 @@
-# Paris 2024 Olympics Dashboard
+# Kaggle House Prices - Advanced Regression Techniques
 
 ● Predicted house sales prices in a competition dataset with 79 explanatory variables describing various aspects of residential homes
 
